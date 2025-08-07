@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import "../styles/navbar.css";
+<Link href="/gallery">Gallery</Link>
 
 export default function Navbar() {
   const [menuActive, setMenuActive] = useState(false);

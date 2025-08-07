@@ -1,7 +1,6 @@
+import wallpapers from './data/wallpapers.json'; // Fixed path
+import WallpaperGrid from './components/WallpaperGrid';
+
 export default function Home() {
-  return (
-    <main className="pt-24 text-center text-white">
-      <h1 className="text-3xl font-bold">Welcome to Terrapix!</h1>
-    </main>
-  );
+  // Your component code
 }

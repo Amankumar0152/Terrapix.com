@@ -1,0 +1,45 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.card {
+  background: #111;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 0 10px #00000055;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 15px #000000aa;
+}
+
+.wallpaper {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: filter 0.3s;
+}
+
+.card:hover .wallpaper {
+  filter: brightness(1.1);
+}
+
+.downloadBtn {
+  display: block;
+  text-align: center;
+  padding: 0.6rem;
+  background: #1db954;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+.downloadBtn:hover {
+  background: #1ed760;
+}

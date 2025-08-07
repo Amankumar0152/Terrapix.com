@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Sunset 1",
+    "imageUrl": "https://res.cloudinary.com/dzx2uira0/image/upload/v1754550743/sunset_nultug.jpg",
+    "webpUrl": "https://res.cloudinary.com/dzx2uira0/image/upload/f_webp/v1754550743/sunset_nultug.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Sunset 2",
+    "imageUrl": "https://res.cloudinary.com/dzx2uira0/image/upload/v1754551323/sunset_ehmdfs.jpg",
+    "webpUrl": "https://res.cloudinary.com/dzx2uira0/image/upload/f_webp/v1754551323/sunset_ehmdfs.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Sunset 3",
+    "imageUrl": "https://res.cloudinary.com/dzx2uira0/image/upload/v1754551542/sunset-1.2_tfztpk.jpg",
+    "webpUrl": "https://res.cloudinary.com/dzx2uira0/image/upload/f_webp/v1754551542/sunset-1.2_tfztpk.jpg"
+  }
+]
