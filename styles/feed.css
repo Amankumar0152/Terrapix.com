@@ -12,19 +12,6 @@
       color: #333;
     }
     
-    /* Stylish Header */
-    .header {
-      background: linear-gradient(135deg, #4361ee 0%, #3a0ca3 100%);
-      color: white;
-      padding: 2rem 0;
-      text-align: center;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-      margin-bottom: 2rem;
-    }
-    .header p{
-        padding: 5px;
-    }
-    
     .logo {
       font-size: 3rem;
       font-weight: 800;
