@@ -10,7 +10,7 @@ body{
 }
 /* Navbar Container */
 .terrapix-nav {
-    background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+    background: linear-gradient(135deg, #7669ee, #436cf1, #24243e);
     backdrop-filter: blur(10px);
     height: 80px;
     display: flex;
